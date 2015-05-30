@@ -51,11 +51,11 @@ List all files stored in your Files app:
 
 Download given file from your Files app:
 
-    cozy-clis download <file_name>
+    cozy-clis files download <file_name>
 
 Upload given file to the root of your Files app:
 
-    cozy-clis upload <file_name>
+    cozy-clis files upload <file_name>
 
 ### Todos
 
